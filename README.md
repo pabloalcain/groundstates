@@ -1,5 +1,4 @@
-#Nuclei calculation
+# Nuclei calculation
 
-This program calculates nuclei energies for different molecular
-dynamics methods (QMD, Horowitz, Pandha), so we can be able to compare
-them.
+This program calculates nuclei energies for different molecular dynamics methods (QMD, Horowitz, Pandha).
+It is all done in Python to show how the calculations can be made.
